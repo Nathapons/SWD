@@ -143,7 +143,7 @@ environ.Env.read_env()
 #    - app => mail, device => window and donw copy password to .env file
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = env('email_user')
+EMAIL_HOST_USER = 'nuthaponfortest@gmail.com'
 # password mail: Wqr8V2.W_2UBmZE
-EMAIL_HOST_PASSWORD = env('email_pass')
+EMAIL_HOST_PASSWORD = 'oxmvazfwpszrrasl'
 EMAIL_USE_TLS = True
